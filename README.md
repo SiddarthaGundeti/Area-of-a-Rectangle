@@ -5,6 +5,7 @@ Write a program to calculate the area of the Rectangle. Note: Area of Rectangle 
 Input:
 
 The first line of input contains the length of the rectangle, which is an integer.
+
 The second line of input contains the breadth of the rectangle, which is an integer.
 
 Output:
